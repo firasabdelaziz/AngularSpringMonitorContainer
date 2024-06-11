@@ -11,7 +11,7 @@ The application consists of two main folders:
 
 ## Infrastructure Setup 🛠️
 
-The `infrastructure` folder contains Docker Compose file with services like Jenkins, Grafana, Prometheus, Nexus, Node Exporter, MySQL Exporter, Promtail, Loki, SonarQube, Ansible, and n8n.
+The `infrastructure` folder contains Docker Compose file with services like Jenkins, Grafana, Prometheus, Nexus, Node Exporter, MySQL Exporter, Promtail, Loki, SonarQube.
 
 ### Jenkins 🛠️
 
